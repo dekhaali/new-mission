@@ -60,6 +60,7 @@ span{
 text-align: center;
 background-color:#ffedf0;
 width:1330px;
+border-radius: 10px;
 height:300px;
 margin-left:280px;
 padding-top:80px ;
@@ -72,4 +73,40 @@ padding-top:80px ;
   padding:15px;
   font: 600;
   font-size: large;
+}
+.image-container{
+  position: relative;
+}
+.img-1{
+  width:270px;
+  margin-top: 10px;
+}
+.img-2{
+  position: absolute;
+  /* top:-80px;
+right:30px; */
+/* left:40px; */
+bottom:36px;
+margin-left: -285px;
+  width:300px;
+}
+.new-offer{
+  color: red;
+}
+.soon{
+  font-size: 30px;
+}
+
+.offer{
+  max-width:1140px;
+  display: flex;
+  justify-content: space-between;
+  margin:80px auto;
+}
+.twenty-four{
+  font-weight: bolder;
+  font-size: 40px;
+}
+.year{
+margin: 30px;
 }
