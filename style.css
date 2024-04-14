@@ -1,0 +1,75 @@
+body{
+  
+  font-family: "Open Sans", sans-serif;
+}
+div{
+  position: relative;
+
+}
+.banner {
+display: flex;
+justify-content: center;
+}
+.banner img{
+  margin-top: 25px;
+}
+.notes{
+  color:rgb(102, 219, 56);
+  position: absolute;
+  top:100px;
+ margin-left: 850px;
+  font-size: larger;
+}
+.deals{
+  font:bold;
+  font-size: larger;
+  text-align: center;
+  
+}
+.off,.our{
+  color:red;
+}
+.party{
+  display: flex;
+  justify-content: center;
+}
+.noted{
+  position: absolute;
+  top:40px;
+  left:420px;
+  color: white;
+  font: bolder;
+  font-size: larger;
+}
+.btn{
+  margin-top: 30px;
+background-color: rgb(10, 5, 11);
+border-radius: 5px;
+border: 0;
+color: white;
+padding: 5px;
+}
+.span{
+  margin-left: 15px;
+}
+span{
+  color: red;
+}
+.venue{
+  margin-top: 100px;
+text-align: center;
+background-color:#ffedf0;
+width:1330px;
+height:300px;
+margin-left:280px;
+padding-top:80px ;
+}
+.btn-second{
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  border: 0;
+  padding:15px;
+  font: 600;
+  font-size: large;
+}
