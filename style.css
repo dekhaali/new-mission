@@ -1,5 +1,5 @@
 body{
-  
+ 
   font-family: "Open Sans", sans-serif;
 }
 div{
@@ -80,6 +80,7 @@ padding-top:80px ;
 .img-1{
   width:270px;
   margin-top: 10px;
+  
 }
 .img-2{
   position: absolute;
@@ -89,6 +90,7 @@ right:30px; */
 bottom:36px;
 margin-left: -285px;
   width:300px;
+  
 }
 .new-offer{
   color: red;
@@ -109,4 +111,29 @@ margin-left: -285px;
 }
 .year{
 margin: 30px;
+}
+.figures{
+  position: relative;
+  margin-left: 300px;
+  max-width: 1140px;
+}
+.three-image{
+  display: flex;
+}
+.rectangle{
+  position: relative;
+}
+.box{
+  width:400px;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 100px;
+  z-index: 1;
+}
+.gift{
+  color:red;
+}
+.gift-items{
+
+  margin-left: 330px;
 }
