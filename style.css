@@ -37,6 +37,7 @@ justify-content: center;
   color:red;
 }
 .party{
+  margin-top: 60px;
   display: flex;
   justify-content: center;
 }
