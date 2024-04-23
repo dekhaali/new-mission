@@ -213,6 +213,9 @@ position: relative;
 .para-web{
   margin-top: -5px;
 }
+.images{
+  width:100%;
+}
 .row-1 ,.row-2{
   padding-top: 90px;
   margin-left: 500px;
