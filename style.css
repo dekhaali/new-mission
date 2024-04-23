@@ -218,5 +218,11 @@ position: relative;
   bottom:110px;
   width: 100%;
 }
+.reserved-para{
+  position: absolute;
+  bottom:20px;
+  color: white;
+  margin-left: 640px;
+}
 
 
