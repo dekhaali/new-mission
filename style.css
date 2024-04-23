@@ -27,7 +27,13 @@ justify-content: center;
   text-align: center;
   
 }
-.off,.our{
+.off{
+  font-size: 59px;
+  color:red;
+}
+
+.our-holiday{
+  font-size: 39px;
   color:red;
 }
 .party{
